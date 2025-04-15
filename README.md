@@ -8,7 +8,7 @@ Este projeto tem como objetivo analisar os dados de vendas de quatro lojas da Al
 
 O projeto está organizado da seguinte forma:
 
-* **Alura_Store.ipynb:** Notebook Jupyter contendo todo o código da análise, incluindo importação de dados, tratamento, cálculos, geração de gráficos e conclusões.
+* **ChallengeAluraStoreBr.ipynb:** Notebook Jupyter contendo todo o código da análise, incluindo importação de dados, tratamento, cálculos, geração de gráficos e conclusões.
 * **datasets:** Pasta contendo os arquivos CSV com os dados de cada loja.
 
 ## Exemplos de Gráficos e Insights Obtidos
