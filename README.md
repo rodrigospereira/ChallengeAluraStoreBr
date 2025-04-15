@@ -16,13 +16,15 @@ O projeto está organizado da seguinte forma:
 O projeto utiliza visualizações para apresentar os resultados da análise de forma clara e intuitiva. Alguns exemplos de gráficos e insights gerados:
 
 * **Gráfico de Barras - Faturamento Total por Loja:** Permite comparar o faturamento de cada loja, identificando as mais e menos lucrativas.
-* 
+  
 ![Gráfico de Barras - Faturamento Total por Loja](faturamento_total.png)
+
 * **Gráfico de Pizza - Distribuição de Categorias de Produtos:** Mostra a proporção de cada categoria de produto nas vendas de uma loja específica, revelando quais categorias são mais populares.
-* 
+
 ![Gráfico de Pizza - Distribuição de Categorias de Produtos](distribuicao_categorias.png)
+
 * **Gráfico de Barras Horizontais - Frete Médio por Loja:** Compara o custo médio de frete de cada loja, identificando aquelas com fretes mais altos ou mais baixos.
-* 
+
 ![Gráfico de Barras Horizontais - Frete Médio por Loja](frete_medio.png)
 
 Além dos gráficos, o projeto apresenta insights sobre os produtos mais e menos vendidos, a média das avaliações de clientes por loja e outros dados relevantes para a tomada de decisão.
